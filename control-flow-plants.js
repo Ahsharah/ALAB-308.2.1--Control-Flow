@@ -17,7 +17,7 @@ function DetermineAction(plantcount) {
         
         if (percentagecapacity > 80) {
             return "Pruned";
-        } else if {(percentagecpacity >=50) {
+        } else if {(percentagecapacity >=50) {
             return "Monitored";
         } else {
             return "Planted";

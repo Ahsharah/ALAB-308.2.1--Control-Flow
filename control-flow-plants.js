@@ -28,6 +28,10 @@ function DetermineAction(plantcount) {
         }
 }
  function
-()
+//How to plan/perdict growth for weeks//
+console.log ("Part 1 Growing Pains")
+perdictGrowthAndAction (1);
+perdictGrowthAndAction (2);
+perdictGrowthAndAction (3);
 
 //Part 2 - Think Bigger//

@@ -28,6 +28,6 @@ function DetermineAction(plantcount) {
         }
 }
  function
-
+()
 
 //Part 2 - Think Bigger//

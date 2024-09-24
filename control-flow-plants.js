@@ -4,7 +4,7 @@ const GARDENRadius = 5;
 const PLANTSSpace = 0.8;
 const STARTPLANTSpace = 20;
 
-//PRUNED - MONITORED - PLANTED -- Info in Doc.//
+//PRUNED - MONITORED - PLANTED -- Info in Doc.// (let, var, const variable)
 const area = PI * radius * radius;
 const capacity = math.floor (GARDENRadius/PLANTSSpace)
 
@@ -17,7 +17,7 @@ function DetermineAction(plantcount) {
         
         if (percentagecapacity > 80) {
             return "Pruned";
-        } else if {(percentagecapacity >=50) {
+        } else if {(percentagecpacity >=50) {
             return "Monitored";
         } else {
             return "Planted";
@@ -28,10 +28,6 @@ function DetermineAction(plantcount) {
         }
 }
  function
-//How to plan/perdict growth for weeks//
-console.log ("Part 1 Growing Pains")
-perdictGrowthAndAction (1);
-perdictGrowthAndAction (2);
-perdictGrowthAndAction (3);
+()
 
 //Part 2 - Think Bigger//
